@@ -16,7 +16,7 @@ clear        Clear runtime parameters
   schedule     schedule test jobs
   scp          Use scp to import / export files
   set          Set operational parameters
-
+  show         show parameter
   ssh          Start a secure shell to another host
   tail         Print the last 10 lines of debug file content
   target       management session target
