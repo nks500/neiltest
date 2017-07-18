@@ -3,8 +3,7 @@ clear        Clear runtime parameters
   configure    Manipulate software configuration information
   debug        Debug and diagnose
   delete       Remove files from hard disk
-  diff         local configuration diffs
-  exit         Exit this session
+  diff         local configuration diff
   find         Find CLI commands with keyword
   ftp          Use ftp to export files
   grep         Searches file for lines containing a pattern match
