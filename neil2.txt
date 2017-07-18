@@ -1,0 +1,27 @@
+FW command list
+clear        Clear runtime parameters
+  configure    Manipulate software configuration information
+  debug        Debug and diagnose
+  delete       Remove files from hard disk
+  diff         local configuration diffs
+  exit         Exit this session
+  find         Find CLI commands with keyword
+  ftp          Use ftp to export files
+  grep         Searches file for lines containing a pattern match
+  less         Examine debug file content
+  ls           Examine debug file listing
+  ping         Ping hosts and networks
+  quit         Exit this session
+  request      Make system-level requests
+  schedule     schedule test jobs
+  scp          Use scp to import / export files
+  set          Set operational parameters
+  show         Show operational parameters
+  ssh          Start a secure shell to another host
+  tail         Print the last 10 lines of debug file content
+  target       management session target
+  tcpdump      capture packets on management interface
+  test         verify system settings with test cases
+  tftp         Use tftp to import / export files
+  traceroute   Print the route packets take to network host
+  view-pcap    Examine packet capture file content
